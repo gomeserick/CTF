@@ -1,0 +1,12 @@
+name: CTF
+version: 1.0
+main: me.erick.ctf.core.CTFMain
+commands:
+  start:
+  classe:
+  map:
+  MudarTime:
+  placar:
+  setar:
+  setPronto:
+  addMapa:
